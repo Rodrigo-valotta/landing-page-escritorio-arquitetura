@@ -1,10 +1,10 @@
-# Landing Page Interativa
+# Landing Page Interativa - Desafio 01
 
 ## 📌 Sobre o projeto
 
-Landing page desenvolvida utilizando HTML5, CSS3 e JavaScript, com foco em estruturação semântica, organização de código e manipulação básica do DOM.
+Landing page desenvolvida com HTML5, CSS3 e JavaScript, com foco em estruturação semântica, organização de código, responsividade e interatividade no front-end.
 
-O projeto foi construído como prática de desenvolvimento Frontend, aplicando conceitos fundamentais de interatividade, responsividade e versionamento com Git.
+O projeto foi construído como prática de desenvolvimento Frontend, aplicando manipulação do DOM e boas práticas de separação entre estrutura, estilo e comportamento.
 
 ---
 
@@ -15,25 +15,17 @@ O projeto foi construído como prática de desenvolvimento Frontend, aplicando c
 - JavaScript  
 - Git  
 - GitHub  
+- Netlify (Deploy)
 
 ---
 
 ## 🎯 Funcionalidades
 
-- Estrutura semântica do HTML  
-- Estilização organizada com CSS  
-- Manipulação de elementos com JavaScript  
-- Interações básicas no DOM  
+- Estrutura semântica em HTML  
 - Layout responsivo  
-
----
-
-## 📚 Aprendizados
-
-- Separação de responsabilidades (HTML, CSS e JS)  
-- Organização de pastas e arquivos  
-- Estruturação de código mais limpa  
-- Publicação de projetos e controle de versão  
+- Estilização organizada com CSS  
+- Interações dinâmicas com JavaScript  
+- Manipulação de elementos no DOM  
 
 ---
 
@@ -41,6 +33,19 @@ O projeto foi construído como prática de desenvolvimento Frontend, aplicando c
 
 Acesse o projeto online:  
 👉 https://desafio-um.netlify.app/
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, consolidei:
+
+- Organização de arquivos e pastas  
+- Separação de responsabilidades (HTML, CSS e JS)  
+- Manipulação básica do DOM  
+- Estruturação de layout responsivo  
+- Fluxo de versionamento com Git  
+
 ---
 
 ## 👨‍💻 Autor
