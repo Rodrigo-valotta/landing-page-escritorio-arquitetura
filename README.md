@@ -1,10 +1,10 @@
-# Landing Page Responsiva
+# Landing Page Interativa
 
 ## 📌 Sobre o projeto
 
-Landing page desenvolvida com HTML5 e CSS3, aplicando estrutura semântica, organização de código e responsividade.
+Landing page desenvolvida utilizando HTML5, CSS3 e JavaScript, com foco em estruturação semântica, organização de código e manipulação básica do DOM.
 
-O projeto foi construído como prática de desenvolvimento Frontend, utilizando versionamento com Git e publicação via Netlify.
+O projeto foi construído como prática de desenvolvimento Frontend, aplicando conceitos fundamentais de interatividade, responsividade e versionamento com Git.
 
 ---
 
@@ -12,18 +12,28 @@ O projeto foi construído como prática de desenvolvimento Frontend, utilizando 
 
 - HTML5  
 - CSS3  
+- JavaScript  
 - Git  
 - GitHub  
-- Netlify  
 
 ---
 
-## 🎯 Aprendizados
+## 🎯 Funcionalidades
 
-- Estruturação semântica do HTML  
-- Organização de estilos em arquivo separado  
-- Aplicação de layout responsivo  
-- Fluxo básico de versionamento com Git  
+- Estrutura semântica do HTML  
+- Estilização organizada com CSS  
+- Manipulação de elementos com JavaScript  
+- Interações básicas no DOM  
+- Layout responsivo  
+
+---
+
+## 📚 Aprendizados
+
+- Separação de responsabilidades (HTML, CSS e JS)  
+- Organização de pastas e arquivos  
+- Estruturação de código mais limpa  
+- Publicação de projetos e controle de versão  
 
 ---
 
@@ -31,7 +41,6 @@ O projeto foi construído como prática de desenvolvimento Frontend, utilizando 
 
 Acesse o projeto online:  
 👉 https://desafio-um.netlify.app/
-
 ---
 
 ## 👨‍💻 Autor
